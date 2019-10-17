@@ -1,0 +1,5 @@
+git+git://github.com/openworm/pyopenworm.git@dev
+numpy
+matplotlib
+libNeuroML
+pandas
